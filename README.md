@@ -3,7 +3,7 @@ A quick and dirty Chrome extension to force Picture-In-Picture mode on sites tha
 
 ![](https://media0.giphy.com/media/BammSQz8IqVT8I0Z0U/giphy.gif?cid=790b7611faaee1b455a37c950f7fa33b23cea042b0369a3d&rid=giphy.gif&ct=g)
 
-# Teste on sites:
+# Tested on sites:
 - Hybeflex
 - Youtube
 
